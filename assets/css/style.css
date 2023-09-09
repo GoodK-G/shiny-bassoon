@@ -32,13 +32,15 @@ body {
     font-size: 20px;
 }
 
-.header, nav, ul, li{
-    list-style-type: none;
-}
+/* I added the syling that was here to the class 
+ .header, nav, ul, li{
+   
+} */
 
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    list-style-type: none;
 }
 
 a {
@@ -86,12 +88,14 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
+/*Changed all of the different classes that were syled the same to the same class!
+
+ .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -99,30 +103,31 @@ p {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-}
+} */
 
  /* h3 {
     margin-bottom: 10px;
     text-align: center;
 } */
 
-.benefit-brand, .benefit-cost, .benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
- /* h3 {
+ /*  here I phased out the repetitve things that were not needed.
+ h3 {
     margin-bottom: 10px;
     text-align: center;
 } */
 
-.benefit-lead img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+/* .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -132,10 +137,10 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
-
-.search-engine-optimization {
+/*MMO Stans for Marketing, Managment, and Optimization. I combined all of the different classes in to one.*/
+.mmo {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -144,7 +149,7 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
+/* .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -160,34 +165,34 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-.search-engine-optimization img {
+.mmo img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+/* .online-reputation-management img {
     max-height: 200px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
 
-.search-engine-optimization h2 {
+.mmo h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+/* .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
-}
+    font-size: 36px; 
+}*/
 /*Changed the .footer to just footer, changed the div in the html to a semantic footer*/
 footer {
     padding: 30px;
