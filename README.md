@@ -11,10 +11,10 @@ I built this project to learn more about semantic structure of HTML and also, ho
 
 ## Useage
 
-```md
-![here is a screenshot of the website that was created.]![Screenshot](https://github.com/GoodK-G/shiny-bassoon/assets/141077856/0a3fd46a-6332-43d9-a511-b271e5f3a28d)
 
-```
+![Screenshot](https://github.com/GoodK-G/shiny-bassoon/assets/141077856/0a3fd46a-6332-43d9-a511-b271e5f3a28d)
+
+
 Here is the link to the deployed website : https://goodk-g.github.io/shiny-bassoon/
 If you navigate to the top of the page, on the right side you will see the different topics that are layed out on the page.
 When you click any of the three different links they will direct you to that section on the page.
