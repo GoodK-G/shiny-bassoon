@@ -12,7 +12,7 @@ I built this project to learn more about semantic structure of HTML and also, ho
 ## Useage
 
 ```md
-![here is a screenshot of the website that was created.](assets/images/Screenshot.png)
+![here is a screenshot of the website that was created.](C:\Users\Kevin Good\bootcamp\shiny-bassoon\assets\images\Screenshot.png)
 ```
 Here is the link to the deployed website : https://goodk-g.github.io/shiny-bassoon/
 If you navigate to the top of the page, on the right side you will see the different topics that are layed out on the page.
